@@ -1,4 +1,4 @@
-# Project-3---Binary-Search-Tree
+# Project-3 Binary-Search-Tree
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinden aşağıdaki gibi binary search tree oluşturulur. Dizinin en başındaki değer kök değeri olacaktır.
 
